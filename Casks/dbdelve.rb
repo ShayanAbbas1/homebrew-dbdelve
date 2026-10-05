@@ -1,6 +1,6 @@
 cask "dbdelve" do
-  version "0.3.0"
-  sha256 "2a619c8b73af8a3e7de7349064eb6a1dcd30dcc1295e9db27c6ffbaa81db60f3"
+  version "0.3.1"
+  sha256 "a5cb7d5df792d22ed3fb32c4ef5eaf63aece7fae8f1d1aabfe9d55b22ba55c32"
 
   url "https://github.com/ShayanAbbas1/dbdelve/releases/download/v#{version}/DBDelve-#{version}.dmg"
   name "DBDelve"
