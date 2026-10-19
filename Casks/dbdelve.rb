@@ -1,10 +1,10 @@
 cask "dbdelve" do
-  version "0.3.8"
-  sha256 "74bcebddae866d114127b4b66946051110d8189f09028645a26eb28e0d99536a"
+  version "0.4.0"
+  sha256 "6f9623b4481d41188d6f76a3339ea7c5d50b2b39462a277ef289441df1be8950"
 
   url "https://github.com/ShayanAbbas1/dbdelve/releases/download/v#{version}/DBDelve-#{version}.dmg"
   name "DBDelve"
-  desc "Native SQL client"
+  desc "Fast, native, multi-engine database client"
   homepage "https://github.com/ShayanAbbas1/dbdelve"
 
   depends_on arch: :arm64
