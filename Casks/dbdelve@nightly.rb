@@ -1,6 +1,6 @@
 cask "dbdelve@nightly" do
-  version "0.7.4-nightly.20261120.48"
-  sha256 "b61f4b09a1fde333ca5b785c636e49bcacda9a21af9ac5cc47b8ef89349cf44f"
+  version "0.7.4-nightly.20261123.51"
+  sha256 "86d908f76e544894727f3f83ea6901fbf790a6d4cc5ae528f56c38fd394c9ba0"
 
   url "https://github.com/ShayanAbbas1/dbdelve/releases/download/v#{version}/DBDelve-Nightly-#{version}.dmg"
   name "DBDelve Nightly"
